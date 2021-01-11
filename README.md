@@ -5,17 +5,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeborg&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
- ### Languages and Tools:
- 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/html.gif" width="70">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/css.gif" width="70">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/js.webp" width="70">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/bootstrap.gif" width="70">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/github.webp" width="70">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" width="70">
-</p>
-
 <details>
   <summary>🌟 GitHub Stats</summary>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zeborg&show_icons=true&theme=merko" />
