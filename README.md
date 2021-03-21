@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://zeborg.xyz/" target="_blank">Abhinav</a>. Nice to see you.🤗</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://zeborg.xyz/" target="_blank">Abhinav</a>. Nice to see you here. 🤗</h1>
 
  ![Profile views](https://gpvc.arturio.dev/zeborg?v=3)
 </p>
@@ -16,7 +16,7 @@
 </details>
 
 <details>
-  <summary>😄 Here is meme for you, to make your day better!</summary>
+  <summary>😄 Here is a meme for you, to make your day better!</summary>
    <a href="https://github.com/zeborg"><img src="https://humornama.com/wp-content/uploads/2020/05/good-programmer-meme.png" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="350"></a>
 </details>
 
