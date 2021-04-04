@@ -22,7 +22,8 @@
 
  ### 📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
  
-<center><a href="https://www.linkedin.com/in/abhinav-sinha-aa55ba1b2/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a></center>
+|<center><a href="https://www.linkedin.com/in/abhinav-sinha-aa55ba1b2/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a></center>|<a href="https://twitter.com/zebhinav"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|
+|--|--|
 <br>
 <br>
 
