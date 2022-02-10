@@ -38,6 +38,7 @@
 
 ---
 
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3180](https://github.com/kyverno/kyverno/issues/3180) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 2. 💪 Opened PR [#3202](https://github.com/kyverno/kyverno/pull/3202) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
