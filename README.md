@@ -40,9 +40,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3194](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3194) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#616](https://github.com/kubearmor/KubeArmor/issues/616) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
 2. 🗣 Commented on [#3194](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3194) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#3212](https://github.com/kyverno/kyverno/issues/3212) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 💪 Opened PR [#3194](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3194) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#3176](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3176) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#3194](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3194) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#3212](https://github.com/kyverno/kyverno/issues/3212) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 💪 Opened PR [#3194](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3194) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
