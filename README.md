@@ -40,9 +40,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/zeborg/KubeArmor/pull/1) in [zeborg/KubeArmor](https://github.com/zeborg/KubeArmor)
-2. 🗣 Commented on [#616](https://github.com/kubearmor/KubeArmor/issues/616) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
-3. 🗣 Commented on [#3194](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3194) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#3194](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3194) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#3212](https://github.com/kyverno/kyverno/issues/3212) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#616](https://github.com/kubearmor/KubeArmor/issues/616) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
+2. 🗣 Commented on [#617](https://github.com/kubearmor/KubeArmor/issues/617) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
+3. 💪 Opened PR [#617](https://github.com/kubearmor/KubeArmor/pull/617) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
+4. 💪 Opened PR [#1](https://github.com/zeborg/KubeArmor/pull/1) in [zeborg/KubeArmor](https://github.com/zeborg/KubeArmor)
+5. 🗣 Commented on [#616](https://github.com/kubearmor/KubeArmor/issues/616) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
 <!--END_SECTION:activity-->
