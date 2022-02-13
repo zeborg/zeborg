@@ -40,9 +40,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/zeborg/KubeArmor/pull/1) in [zeborg/KubeArmor](https://github.com/zeborg/KubeArmor)
-2. 🗣 Commented on [#616](https://github.com/kubearmor/KubeArmor/issues/616) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
-3. 🗣 Commented on [#617](https://github.com/kubearmor/KubeArmor/issues/617) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
-4. 💪 Opened PR [#617](https://github.com/kubearmor/KubeArmor/pull/617) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
-5. 💪 Opened PR [#1](https://github.com/zeborg/KubeArmor/pull/1) in [zeborg/KubeArmor](https://github.com/zeborg/KubeArmor)
+1. 🗣 Commented on [#617](https://github.com/kubearmor/KubeArmor/issues/617) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
+2. 🗣 Commented on [#617](https://github.com/kubearmor/KubeArmor/issues/617) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
+3. ❌ Closed PR [#1](https://github.com/zeborg/KubeArmor/pull/1) in [zeborg/KubeArmor](https://github.com/zeborg/KubeArmor)
+4. 🗣 Commented on [#616](https://github.com/kubearmor/KubeArmor/issues/616) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
+5. 🗣 Commented on [#617](https://github.com/kubearmor/KubeArmor/issues/617) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
 <!--END_SECTION:activity-->
