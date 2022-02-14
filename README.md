@@ -40,9 +40,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3223](https://github.com/kyverno/kyverno/issues/3223) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. 🗣 Commented on [#617](https://github.com/kubearmor/KubeArmor/issues/617) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
+1. 🗣 Commented on [#3180](https://github.com/kyverno/kyverno/issues/3180) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. ❗️ Opened issue [#3223](https://github.com/kyverno/kyverno/issues/3223) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 3. 🗣 Commented on [#617](https://github.com/kubearmor/KubeArmor/issues/617) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
-4. ❌ Closed PR [#1](https://github.com/zeborg/KubeArmor/pull/1) in [zeborg/KubeArmor](https://github.com/zeborg/KubeArmor)
-5. 🗣 Commented on [#616](https://github.com/kubearmor/KubeArmor/issues/616) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
+4. 🗣 Commented on [#617](https://github.com/kubearmor/KubeArmor/issues/617) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
+5. ❌ Closed PR [#1](https://github.com/zeborg/KubeArmor/pull/1) in [zeborg/KubeArmor](https://github.com/zeborg/KubeArmor)
 <!--END_SECTION:activity-->
