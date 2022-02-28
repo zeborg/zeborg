@@ -11,17 +11,16 @@
  [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
  [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
  [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+ [![Editor](https://img.shields.io/badge/Editor-Vim-blue?style=flat-square&logo=vim&logoColor=white)](https://vim.org/)
+ [![VCS](https://img.shields.io/badge/SCM-git-blue?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
  
 </div>
 
 <p align="center">
-  <a href="https://github.com/zeborg?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-  <a href="https://github.com/alwinw?tab=repositories&language=go" target="_blank"><img alt="Go" src="https://img.shields.io/badge/-Go-0099CC?style=flat-square&logo=Go&logoColor=white"></a>
+  <a href="https://github.com/zeborg?tab=repositories&language=go" target="_blank"><img alt="Go" src="https://img.shields.io/badge/-Go-0099CC?style=flat-square&logo=Go&logoColor=white"></a>
   <a href="https://kubernetes.io" target="_blank"><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-0066CC?style=flat-square&logo=Kubernetes&logoColor=white"></a>
-  <a href="https://github.com/alwinw?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-0076A8?style=flat-square&logo=PowerShell&logoColor=white"></a>
+  <a href="https://github.com/zeborg?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-0076A8?style=flat-square&logo=PowerShell&logoColor=white"></a>
   <a href="https://github.com/zeborg?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-  <a href="https://git-scm.com" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-git-FF8000?style=flat-square&logo=Git&logoColor=white"></a>
-  <a href="https://vim.org" target="_blank"><img alt="Vim" src="https://img.shields.io/badge/-Vim-006600?style=flat-square&logo=Vim&logoColor=white"></a>
 </p>
 
  <a href="">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeborg&theme=tokyonight_duo)</a>
