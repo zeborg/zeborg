@@ -23,7 +23,12 @@
   <a href="https://github.com/zeborg?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
 </p>
 
+<div align="center">
+ 
  <a href="">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeborg&theme=tokyonight_duo)</a>
+ 
+</div>
+
 <!--  [![zeborg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeborg&show_icons=true&theme=merko)](https://abhinavsinha.xyz/) -->
 
 <!-- <details>
