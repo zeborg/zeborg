@@ -66,9 +66,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3339](https://github.com/kyverno/kyverno/issues/3339) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. ❌ Closed PR [#3033](https://github.com/kyverno/kyverno/pull/3033) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 🗣 Commented on [#3033](https://github.com/kyverno/kyverno/issues/3033) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#3171](https://github.com/kyverno/kyverno/issues/3171) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. ❗️ Closed issue [#3135](https://github.com/kyverno/kyverno/issues/3135) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#3361](https://github.com/kyverno/kyverno/issues/3361) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 🗣 Commented on [#3339](https://github.com/kyverno/kyverno/issues/3339) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. ❌ Closed PR [#3033](https://github.com/kyverno/kyverno/pull/3033) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 🗣 Commented on [#3033](https://github.com/kyverno/kyverno/issues/3033) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#3171](https://github.com/kyverno/kyverno/issues/3171) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
