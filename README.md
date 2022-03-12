@@ -66,9 +66,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/zeborg/CAPA-Bot/issues/4) in [zeborg/CAPA-Bot](https://github.com/zeborg/CAPA-Bot)
-2. ❗️ Opened issue [#4](https://github.com/zeborg/CAPA-Bot/issues/4) in [zeborg/CAPA-Bot](https://github.com/zeborg/CAPA-Bot)
-3. ❗️ Closed issue [#3](https://github.com/zeborg/CAPA-Bot/issues/3) in [zeborg/CAPA-Bot](https://github.com/zeborg/CAPA-Bot)
-4. ❗️ Opened issue [#3](https://github.com/zeborg/CAPA-Bot/issues/3) in [zeborg/CAPA-Bot](https://github.com/zeborg/CAPA-Bot)
-5. ❗️ Closed issue [#2](https://github.com/zeborg/CAPA-Bot/issues/2) in [zeborg/CAPA-Bot](https://github.com/zeborg/CAPA-Bot)
+1. 💪 Opened PR [#1](https://github.com/zeborg/kyverno/pull/1) in [zeborg/kyverno](https://github.com/zeborg/kyverno)
+2. ❗️ Closed issue [#4](https://github.com/zeborg/CAPA-Bot/issues/4) in [zeborg/CAPA-Bot](https://github.com/zeborg/CAPA-Bot)
+3. ❗️ Opened issue [#4](https://github.com/zeborg/CAPA-Bot/issues/4) in [zeborg/CAPA-Bot](https://github.com/zeborg/CAPA-Bot)
+4. ❗️ Closed issue [#3](https://github.com/zeborg/CAPA-Bot/issues/3) in [zeborg/CAPA-Bot](https://github.com/zeborg/CAPA-Bot)
+5. ❗️ Opened issue [#3](https://github.com/zeborg/CAPA-Bot/issues/3) in [zeborg/CAPA-Bot](https://github.com/zeborg/CAPA-Bot)
 <!--END_SECTION:activity-->
