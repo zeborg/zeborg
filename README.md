@@ -66,9 +66,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/zeborg/CAPA-Bot/issues/1) in [zeborg/CAPA-Bot](https://github.com/zeborg/CAPA-Bot)
-2. 🗣 Commented on [#3304](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3304) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🎉 Merged PR [#1](https://github.com/zeborg/buildx-test/pull/1) in [zeborg/buildx-test](https://github.com/zeborg/buildx-test)
-4. 💪 Opened PR [#1](https://github.com/zeborg/buildx-test/pull/1) in [zeborg/buildx-test](https://github.com/zeborg/buildx-test)
-5. 🗣 Commented on [#3304](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3304) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3381](https://github.com/kyverno/kyverno/issues/3381) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. ❗️ Opened issue [#1](https://github.com/zeborg/CAPA-Bot/issues/1) in [zeborg/CAPA-Bot](https://github.com/zeborg/CAPA-Bot)
+3. 🗣 Commented on [#3304](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3304) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🎉 Merged PR [#1](https://github.com/zeborg/buildx-test/pull/1) in [zeborg/buildx-test](https://github.com/zeborg/buildx-test)
+5. 💪 Opened PR [#1](https://github.com/zeborg/buildx-test/pull/1) in [zeborg/buildx-test](https://github.com/zeborg/buildx-test)
 <!--END_SECTION:activity-->
