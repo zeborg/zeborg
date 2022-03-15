@@ -70,5 +70,5 @@
 2. ❗️ Closed issue [#1](https://github.com/zeborg/CAPA-Bot/issues/1) in [zeborg/CAPA-Bot](https://github.com/zeborg/CAPA-Bot)
 3. ❗️ Reopened issue [#1](https://github.com/zeborg/CAPA-Bot/issues/1) in [zeborg/CAPA-Bot](https://github.com/zeborg/CAPA-Bot)
 4. ❗️ Closed issue [#1](https://github.com/zeborg/CAPA-Bot/issues/1) in [zeborg/CAPA-Bot](https://github.com/zeborg/CAPA-Bot)
-5. 🗣 Commented on [#3361](https://github.com/kyverno/kyverno/issues/3361) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. ❗️ Reopened issue [#1](https://github.com/zeborg/CAPA-Bot/issues/1) in [zeborg/CAPA-Bot](https://github.com/zeborg/CAPA-Bot)
 <!--END_SECTION:activity-->
