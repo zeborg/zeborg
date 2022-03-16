@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://abhinavsinha.xyz/" target="_blank">Abhinav</a>. Nice to see you here. 🤗</h1>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://abhinavsinha.xyz/" target="_blank">Abhinav</a>. Nice to see you here. 🤗</h1>
 
 <div align="center">
  
@@ -25,33 +25,22 @@
 
 <div align="center">
  
+ [![LinkedIn](https://img.shields.io/badge/-abnvsnha-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abnvsnha/)
+ [![Twitter](https://img.shields.io/badge/-zebhinav-00acee?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zebhinav)
+ ![Email](https://img.shields.io/badge/-work.abhinavsinha-4285f4?style=flat-square&logo=gmail&logoColor=white)
+ 
+</div>
+
+<div align="center">
+ 
  <a href="">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeborg&theme=tokyonight_duo)</a>
  
 </div>
 
-<!--  [![zeborg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeborg&show_icons=true&theme=merko)](https://abhinavsinha.xyz/) -->
-
-<!-- <details>
-  <summary>🌟 GitHub Stats</summary>
-  <img align="left" alt="zeborg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zeborg&show_icons=true&theme=merko" />
-</details>
-
-<details>
-  <summary>📚 Most Used Languages</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeborg&layout=compact" />
-</details>
- -->
 <details>
   <summary>😄 Here is a meme for you, to make your day better!</summary>
    <a href="https://abhinavsinha.xyz/"><img src="https://i.imgur.com/VrdxCnS.jpg" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="350"></a>
 </details>
-
-### 📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
- 
-|<center><a href="https://www.linkedin.com/in/abhinav-sinha-aa55ba1b2/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a></center>|<a href="https://twitter.com/zebhinav"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="mailto:work.abhinavsinha@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="40"></a>|
-|--|--|--|
-<br>
-<br>
 
 --- 
 
