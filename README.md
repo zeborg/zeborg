@@ -25,9 +25,9 @@
 
 <div align="center">
  
- [![LinkedIn](https://img.shields.io/badge/-abnvsnha-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abnvsnha/)
- [![Twitter](https://img.shields.io/badge/-zebhinav-00acee?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zebhinav)
- ![Email](https://img.shields.io/badge/-work.abhinavsinha-4285f4?style=flat-square&logo=gmail&logoColor=white)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-abnvsnha-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abnvsnha/)
+ [![Twitter](https://img.shields.io/badge/Twitter-zebhinav-00acee?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zebhinav)
+ ![Email](https://img.shields.io/badge/Gmail-work.abhinavsinha-4285f4?style=flat-square&logo=gmail&logoColor=white)
  
 </div>
 
