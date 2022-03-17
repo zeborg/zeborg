@@ -55,9 +55,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#97](https://github.com/cncf/contribute/pull/97) in [cncf/contribute](https://github.com/cncf/contribute)
-2. ❗️ Reopened issue [#1](https://github.com/zeborg/CAPA-Bot/issues/1) in [zeborg/CAPA-Bot](https://github.com/zeborg/CAPA-Bot)
-3. ❗️ Closed issue [#1](https://github.com/zeborg/CAPA-Bot/issues/1) in [zeborg/CAPA-Bot](https://github.com/zeborg/CAPA-Bot)
-4. ❗️ Reopened issue [#1](https://github.com/zeborg/CAPA-Bot/issues/1) in [zeborg/CAPA-Bot](https://github.com/zeborg/CAPA-Bot)
-5. ❗️ Closed issue [#1](https://github.com/zeborg/CAPA-Bot/issues/1) in [zeborg/CAPA-Bot](https://github.com/zeborg/CAPA-Bot)
+1. 🎉 Merged PR [#2](https://github.com/zeborg/buildx-test/pull/2) in [zeborg/buildx-test](https://github.com/zeborg/buildx-test)
+2. 💪 Opened PR [#2](https://github.com/zeborg/buildx-test/pull/2) in [zeborg/buildx-test](https://github.com/zeborg/buildx-test)
+3. 🗣 Commented on [#3415](https://github.com/kyverno/kyverno/issues/3415) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 💪 Opened PR [#97](https://github.com/cncf/contribute/pull/97) in [cncf/contribute](https://github.com/cncf/contribute)
+5. ❗️ Reopened issue [#1](https://github.com/zeborg/CAPA-Bot/issues/1) in [zeborg/CAPA-Bot](https://github.com/zeborg/CAPA-Bot)
 <!--END_SECTION:activity-->
