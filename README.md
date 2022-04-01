@@ -55,9 +55,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/zeborg/buildx-test/pull/6) in [zeborg/buildx-test](https://github.com/zeborg/buildx-test)
-2. 💪 Opened PR [#6](https://github.com/zeborg/buildx-test/pull/6) in [zeborg/buildx-test](https://github.com/zeborg/buildx-test)
-3. 🎉 Merged PR [#5](https://github.com/zeborg/buildx-test/pull/5) in [zeborg/buildx-test](https://github.com/zeborg/buildx-test)
-4. 💪 Opened PR [#5](https://github.com/zeborg/buildx-test/pull/5) in [zeborg/buildx-test](https://github.com/zeborg/buildx-test)
-5. 🗣 Commented on [#3414](https://github.com/kyverno/kyverno/issues/3414) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#3202](https://github.com/kyverno/kyverno/issues/3202) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 🎉 Merged PR [#6](https://github.com/zeborg/buildx-test/pull/6) in [zeborg/buildx-test](https://github.com/zeborg/buildx-test)
+3. 💪 Opened PR [#6](https://github.com/zeborg/buildx-test/pull/6) in [zeborg/buildx-test](https://github.com/zeborg/buildx-test)
+4. 🎉 Merged PR [#5](https://github.com/zeborg/buildx-test/pull/5) in [zeborg/buildx-test](https://github.com/zeborg/buildx-test)
+5. 💪 Opened PR [#5](https://github.com/zeborg/buildx-test/pull/5) in [zeborg/buildx-test](https://github.com/zeborg/buildx-test)
 <!--END_SECTION:activity-->
