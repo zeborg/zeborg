@@ -59,5 +59,5 @@
 2. 🗣 Commented on [#3534](https://github.com/kyverno/kyverno/issues/3534) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 3. 🗣 Commented on [#3534](https://github.com/kyverno/kyverno/issues/3534) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 4. 🗣 Commented on [#3534](https://github.com/kyverno/kyverno/issues/3534) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 🗣 Commented on [#3202](https://github.com/kyverno/kyverno/issues/3202) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#3534](https://github.com/kyverno/kyverno/issues/3534) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
