@@ -55,9 +55,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/zeborg/capa-action-test/pull/5) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
-2. 🎉 Merged PR [#4](https://github.com/zeborg/capa-action-test/pull/4) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
-3. 💪 Opened PR [#4](https://github.com/zeborg/capa-action-test/pull/4) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
-4. ❌ Closed PR [#3](https://github.com/zeborg/capa-action-test/pull/3) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
-5. 🗣 Commented on [#3534](https://github.com/kyverno/kyverno/issues/3534) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. ❌ Closed PR [#9](https://github.com/zeborg/capa-action-test/pull/9) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
+2. ❌ Closed PR [#8](https://github.com/zeborg/capa-action-test/pull/8) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
+3. 🎉 Merged PR [#7](https://github.com/zeborg/capa-action-test/pull/7) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
+4. ❌ Closed PR [#6](https://github.com/zeborg/capa-action-test/pull/6) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
+5. ❌ Closed PR [#5](https://github.com/zeborg/capa-action-test/pull/5) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
 <!--END_SECTION:activity-->
