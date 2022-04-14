@@ -58,6 +58,6 @@
 1. 🗣 Commented on [#3540](https://github.com/kyverno/kyverno/issues/3540) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 2. 🗣 Commented on [#3540](https://github.com/kyverno/kyverno/issues/3540) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 3. 🗣 Commented on [#3540](https://github.com/kyverno/kyverno/issues/3540) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#3202](https://github.com/kyverno/kyverno/issues/3202) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 🎉 Merged PR [#16](https://github.com/zeborg/capa-action-test/pull/16) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
+4. 🗣 Commented on [#3540](https://github.com/kyverno/kyverno/issues/3540) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#3202](https://github.com/kyverno/kyverno/issues/3202) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
