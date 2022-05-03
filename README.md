@@ -55,9 +55,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#17](https://github.com/zeborg/capa-action-test/pull/17) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
-2. 🗣 Commented on [#3540](https://github.com/kyverno/kyverno/issues/3540) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 🗣 Commented on [#3540](https://github.com/kyverno/kyverno/issues/3540) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. ❌ Reopened PR [#18](https://github.com/zeborg/capa-action-test/pull/18) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
+2. ❌ Closed PR [#18](https://github.com/zeborg/capa-action-test/pull/18) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
+3. ❌ Closed PR [#17](https://github.com/zeborg/capa-action-test/pull/17) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
 4. 🗣 Commented on [#3540](https://github.com/kyverno/kyverno/issues/3540) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 5. 🗣 Commented on [#3540](https://github.com/kyverno/kyverno/issues/3540) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
