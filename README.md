@@ -57,7 +57,7 @@
 <!--START_SECTION:activity-->
 1. ❌ Reopened PR [#20](https://github.com/zeborg/capa-action-test/pull/20) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
 2. ❌ Closed PR [#20](https://github.com/zeborg/capa-action-test/pull/20) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
-3. ❌ Closed PR [#19](https://github.com/zeborg/capa-action-test/pull/19) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
-4. ❌ Reopened PR [#19](https://github.com/zeborg/capa-action-test/pull/19) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
-5. ❌ Closed PR [#19](https://github.com/zeborg/capa-action-test/pull/19) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
+3. ❌ Reopened PR [#20](https://github.com/zeborg/capa-action-test/pull/20) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
+4. ❌ Closed PR [#20](https://github.com/zeborg/capa-action-test/pull/20) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
+5. ❌ Reopened PR [#20](https://github.com/zeborg/capa-action-test/pull/20) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
 <!--END_SECTION:activity-->
