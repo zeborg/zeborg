@@ -57,7 +57,7 @@
 <!--START_SECTION:activity-->
 1. ❌ Reopened PR [#20](https://github.com/zeborg/capa-action-test/pull/20) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
 2. ❌ Closed PR [#20](https://github.com/zeborg/capa-action-test/pull/20) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
-3. 💪 Opened PR [#3461](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3461) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. ❌ Reopened PR [#20](https://github.com/zeborg/capa-action-test/pull/20) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
-5. ❌ Closed PR [#20](https://github.com/zeborg/capa-action-test/pull/20) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
+3. ❌ Reopened PR [#20](https://github.com/zeborg/capa-action-test/pull/20) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
+4. ❌ Closed PR [#20](https://github.com/zeborg/capa-action-test/pull/20) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
+5. 💪 Opened PR [#3461](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3461) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
