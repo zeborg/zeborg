@@ -59,5 +59,5 @@
 2. ❌ Closed PR [#24](https://github.com/zeborg/capa-action-test/pull/24) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
 3. ❌ Reopened PR [#24](https://github.com/zeborg/capa-action-test/pull/24) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
 4. ❌ Closed PR [#24](https://github.com/zeborg/capa-action-test/pull/24) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
-5. 🎉 Merged PR [#23](https://github.com/zeborg/capa-action-test/pull/23) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
+5. ❌ Reopened PR [#24](https://github.com/zeborg/capa-action-test/pull/24) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
 <!--END_SECTION:activity-->
