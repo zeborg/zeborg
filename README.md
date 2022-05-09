@@ -55,9 +55,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#29](https://github.com/zeborg/capa-action-test/pull/29) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
-2. ❌ Reopened PR [#29](https://github.com/zeborg/capa-action-test/pull/29) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
-3. ❌ Closed PR [#29](https://github.com/zeborg/capa-action-test/pull/29) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
-4. 💪 Opened PR [#29](https://github.com/zeborg/capa-action-test/pull/29) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
-5. ❌ Closed PR [#28](https://github.com/zeborg/capa-action-test/pull/28) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
+1. ❌ Closed PR [#30](https://github.com/zeborg/capa-action-test/pull/30) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
+2. ❌ Closed PR [#29](https://github.com/zeborg/capa-action-test/pull/29) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
+3. ❌ Reopened PR [#29](https://github.com/zeborg/capa-action-test/pull/29) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
+4. ❌ Closed PR [#29](https://github.com/zeborg/capa-action-test/pull/29) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
+5. 💪 Opened PR [#29](https://github.com/zeborg/capa-action-test/pull/29) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
 <!--END_SECTION:activity-->
