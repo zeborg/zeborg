@@ -55,9 +55,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/zeborg/capa-action-test/pull/35) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
-2. ❌ Closed PR [#34](https://github.com/zeborg/capa-action-test/pull/34) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
-3. 💪 Opened PR [#3466](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3466) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. ❌ Closed PR [#3465](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3465) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 💪 Opened PR [#3465](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3465) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🎉 Merged PR [#2](https://github.com/zeborg/capa-action/pull/2) in [zeborg/capa-action](https://github.com/zeborg/capa-action)
+2. ❌ Closed PR [#1](https://github.com/zeborg/capa-action/pull/1) in [zeborg/capa-action](https://github.com/zeborg/capa-action)
+3. 🎉 Merged PR [#35](https://github.com/zeborg/capa-action-test/pull/35) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
+4. ❌ Closed PR [#34](https://github.com/zeborg/capa-action-test/pull/34) in [zeborg/capa-action-test](https://github.com/zeborg/capa-action-test)
+5. 💪 Opened PR [#3466](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3466) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
