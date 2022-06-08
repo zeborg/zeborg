@@ -55,9 +55,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#197](https://github.com/sedefsavas/cluster-api-provider-aws/pull/197) in [sedefsavas/cluster-api-provider-aws](https://github.com/sedefsavas/cluster-api-provider-aws)
-2. ❌ Closed PR [#196](https://github.com/sedefsavas/cluster-api-provider-aws/pull/196) in [sedefsavas/cluster-api-provider-aws](https://github.com/sedefsavas/cluster-api-provider-aws)
-3. ❌ Closed PR [#188](https://github.com/sedefsavas/cluster-api-provider-aws/pull/188) in [sedefsavas/cluster-api-provider-aws](https://github.com/sedefsavas/cluster-api-provider-aws)
-4. ❌ Closed PR [#192](https://github.com/sedefsavas/cluster-api-provider-aws/pull/192) in [sedefsavas/cluster-api-provider-aws](https://github.com/sedefsavas/cluster-api-provider-aws)
-5. 🎉 Merged PR [#191](https://github.com/sedefsavas/cluster-api-provider-aws/pull/191) in [sedefsavas/cluster-api-provider-aws](https://github.com/sedefsavas/cluster-api-provider-aws)
+1. 💪 Opened PR [#3514](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3514) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. ❌ Closed PR [#197](https://github.com/sedefsavas/cluster-api-provider-aws/pull/197) in [sedefsavas/cluster-api-provider-aws](https://github.com/sedefsavas/cluster-api-provider-aws)
+3. ❌ Closed PR [#196](https://github.com/sedefsavas/cluster-api-provider-aws/pull/196) in [sedefsavas/cluster-api-provider-aws](https://github.com/sedefsavas/cluster-api-provider-aws)
+4. ❌ Closed PR [#188](https://github.com/sedefsavas/cluster-api-provider-aws/pull/188) in [sedefsavas/cluster-api-provider-aws](https://github.com/sedefsavas/cluster-api-provider-aws)
+5. ❌ Closed PR [#192](https://github.com/sedefsavas/cluster-api-provider-aws/pull/192) in [sedefsavas/cluster-api-provider-aws](https://github.com/sedefsavas/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
