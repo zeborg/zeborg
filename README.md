@@ -55,9 +55,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3514](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3514) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 💪 Opened PR [#3](https://github.com/zeborg/cluster-api-provider-aws/pull/3) in [zeborg/cluster-api-provider-aws](https://github.com/zeborg/cluster-api-provider-aws)
-3. 💪 Opened PR [#3517](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3517) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. ❌ Closed PR [#1](https://github.com/zeborg/cluster-api-provider-aws/pull/1) in [zeborg/cluster-api-provider-aws](https://github.com/zeborg/cluster-api-provider-aws)
-5. 🎉 Merged PR [#2](https://github.com/zeborg/cluster-api-provider-aws/pull/2) in [zeborg/cluster-api-provider-aws](https://github.com/zeborg/cluster-api-provider-aws)
+1. 🎉 Merged PR [#3](https://github.com/zeborg/cluster-api-provider-aws/pull/3) in [zeborg/cluster-api-provider-aws](https://github.com/zeborg/cluster-api-provider-aws)
+2. 🗣 Commented on [#3514](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3514) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 💪 Opened PR [#3](https://github.com/zeborg/cluster-api-provider-aws/pull/3) in [zeborg/cluster-api-provider-aws](https://github.com/zeborg/cluster-api-provider-aws)
+4. 💪 Opened PR [#3517](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3517) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. ❌ Closed PR [#1](https://github.com/zeborg/cluster-api-provider-aws/pull/1) in [zeborg/cluster-api-provider-aws](https://github.com/zeborg/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
