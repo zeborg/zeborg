@@ -1,4 +1,4 @@
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://abhinavsinha.xyz/" target="_blank">Abhinav</a>. Nice to see you here. 🤗</h1>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/> I'm <a href="https://abhinavsinha.xyz/" target="_blank">Abhinav</a>. Nice to see you here. 🤗</h1>
 
 <div align="center">
  
