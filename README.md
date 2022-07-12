@@ -55,9 +55,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2356](https://github.com/kyverno/kyverno/issues/2356) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#3982](https://github.com/kyverno/kyverno/issues/3982) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 2. 🗣 Commented on [#2356](https://github.com/kyverno/kyverno/issues/2356) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 🗣 Commented on [#4194](https://github.com/kyverno/kyverno/issues/4194) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. ❌ Closed PR [#4](https://github.com/zeborg/cluster-api-provider-aws/pull/4) in [zeborg/cluster-api-provider-aws](https://github.com/zeborg/cluster-api-provider-aws)
-5. 🗣 Commented on [#3514](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3514) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#2356](https://github.com/kyverno/kyverno/issues/2356) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 🗣 Commented on [#4194](https://github.com/kyverno/kyverno/issues/4194) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. ❌ Closed PR [#4](https://github.com/zeborg/cluster-api-provider-aws/pull/4) in [zeborg/cluster-api-provider-aws](https://github.com/zeborg/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
