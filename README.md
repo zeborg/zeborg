@@ -56,8 +56,8 @@
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4553](https://github.com/kyverno/kyverno/issues/4553) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. 🗣 Commented on [#4689](https://github.com/kyverno/kyverno/issues/4689) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. ❗️ Opened issue [#630](https://github.com/kyverno/website/issues/630) in [kyverno/website](https://github.com/kyverno/website)
-4. 🗣 Commented on [#4664](https://github.com/kyverno/kyverno/issues/4664) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 🗣 Commented on [#4664](https://github.com/kyverno/kyverno/issues/4664) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 💪 Opened PR [#3](https://github.com/zeborg/kyverno/pull/3) in [zeborg/kyverno](https://github.com/zeborg/kyverno)
+3. 🗣 Commented on [#4553](https://github.com/kyverno/kyverno/issues/4553) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 🗣 Commented on [#4689](https://github.com/kyverno/kyverno/issues/4689) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. ❗️ Opened issue [#630](https://github.com/kyverno/website/issues/630) in [kyverno/website](https://github.com/kyverno/website)
 <!--END_SECTION:activity-->
