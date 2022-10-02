@@ -55,9 +55,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4773](https://github.com/kyverno/kyverno/issues/4773) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. 🗣 Commented on [#4772](https://github.com/kyverno/kyverno/issues/4772) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 🗣 Commented on [#4763](https://github.com/kyverno/kyverno/issues/4763) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#4553](https://github.com/kyverno/kyverno/issues/4553) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#4553](https://github.com/kyverno/kyverno/issues/4553) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 🗣 Commented on [#4773](https://github.com/kyverno/kyverno/issues/4773) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. 🗣 Commented on [#4772](https://github.com/kyverno/kyverno/issues/4772) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 🗣 Commented on [#4763](https://github.com/kyverno/kyverno/issues/4763) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 5. 🗣 Commented on [#4553](https://github.com/kyverno/kyverno/issues/4553) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
