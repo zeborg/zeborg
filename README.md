@@ -55,9 +55,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/zeborg/Auto-MERGE-Project/pull/7) in [zeborg/Auto-MERGE-Project](https://github.com/zeborg/Auto-MERGE-Project)
-2. 🗣 Commented on [#7](https://github.com/zeborg/Auto-MERGE-Project/issues/7) in [zeborg/Auto-MERGE-Project](https://github.com/zeborg/Auto-MERGE-Project)
-3. 🎉 Merged PR [#6](https://github.com/zeborg/Auto-MERGE-Project/pull/6) in [zeborg/Auto-MERGE-Project](https://github.com/zeborg/Auto-MERGE-Project)
-4. 🗣 Commented on [#4781](https://github.com/kyverno/kyverno/issues/4781) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 🗣 Commented on [#4781](https://github.com/kyverno/kyverno/issues/4781) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#4689](https://github.com/kyverno/kyverno/issues/4689) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 🎉 Merged PR [#8](https://github.com/zeborg/Auto-MERGE-Project/pull/8) in [zeborg/Auto-MERGE-Project](https://github.com/zeborg/Auto-MERGE-Project)
+3. 🎉 Merged PR [#7](https://github.com/zeborg/Auto-MERGE-Project/pull/7) in [zeborg/Auto-MERGE-Project](https://github.com/zeborg/Auto-MERGE-Project)
+4. 🗣 Commented on [#7](https://github.com/zeborg/Auto-MERGE-Project/issues/7) in [zeborg/Auto-MERGE-Project](https://github.com/zeborg/Auto-MERGE-Project)
+5. 🎉 Merged PR [#6](https://github.com/zeborg/Auto-MERGE-Project/pull/6) in [zeborg/Auto-MERGE-Project](https://github.com/zeborg/Auto-MERGE-Project)
 <!--END_SECTION:activity-->
