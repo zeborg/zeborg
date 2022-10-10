@@ -55,9 +55,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/zeborg/Auto-MERGE-Project/issues/11) in [zeborg/Auto-MERGE-Project](https://github.com/zeborg/Auto-MERGE-Project)
-2. ❗️ Closed issue [#11](https://github.com/zeborg/Auto-MERGE-Project/issues/11) in [zeborg/Auto-MERGE-Project](https://github.com/zeborg/Auto-MERGE-Project)
+1. ❌ Closed PR [#28](https://github.com/nirmata/kyverno-charts/pull/28) in [nirmata/kyverno-charts](https://github.com/nirmata/kyverno-charts)
+2. 💪 Opened PR [#28](https://github.com/nirmata/kyverno-charts/pull/28) in [nirmata/kyverno-charts](https://github.com/nirmata/kyverno-charts)
 3. 🗣 Commented on [#11](https://github.com/zeborg/Auto-MERGE-Project/issues/11) in [zeborg/Auto-MERGE-Project](https://github.com/zeborg/Auto-MERGE-Project)
-4. 🗣 Commented on [#11](https://github.com/zeborg/Auto-MERGE-Project/issues/11) in [zeborg/Auto-MERGE-Project](https://github.com/zeborg/Auto-MERGE-Project)
+4. ❗️ Closed issue [#11](https://github.com/zeborg/Auto-MERGE-Project/issues/11) in [zeborg/Auto-MERGE-Project](https://github.com/zeborg/Auto-MERGE-Project)
 5. 🗣 Commented on [#11](https://github.com/zeborg/Auto-MERGE-Project/issues/11) in [zeborg/Auto-MERGE-Project](https://github.com/zeborg/Auto-MERGE-Project)
 <!--END_SECTION:activity-->
