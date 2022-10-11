@@ -55,9 +55,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/nirmata/kyverno-charts/pull/29) in [nirmata/kyverno-charts](https://github.com/nirmata/kyverno-charts)
-2. ❌ Closed PR [#28](https://github.com/nirmata/kyverno-charts/pull/28) in [nirmata/kyverno-charts](https://github.com/nirmata/kyverno-charts)
-3. 💪 Opened PR [#28](https://github.com/nirmata/kyverno-charts/pull/28) in [nirmata/kyverno-charts](https://github.com/nirmata/kyverno-charts)
-4. 🗣 Commented on [#11](https://github.com/zeborg/Auto-MERGE-Project/issues/11) in [zeborg/Auto-MERGE-Project](https://github.com/zeborg/Auto-MERGE-Project)
-5. ❗️ Closed issue [#11](https://github.com/zeborg/Auto-MERGE-Project/issues/11) in [zeborg/Auto-MERGE-Project](https://github.com/zeborg/Auto-MERGE-Project)
+1. 🗣 Commented on [#2356](https://github.com/kyverno/kyverno/issues/2356) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 💪 Opened PR [#29](https://github.com/nirmata/kyverno-charts/pull/29) in [nirmata/kyverno-charts](https://github.com/nirmata/kyverno-charts)
+3. ❌ Closed PR [#28](https://github.com/nirmata/kyverno-charts/pull/28) in [nirmata/kyverno-charts](https://github.com/nirmata/kyverno-charts)
+4. 💪 Opened PR [#28](https://github.com/nirmata/kyverno-charts/pull/28) in [nirmata/kyverno-charts](https://github.com/nirmata/kyverno-charts)
+5. 🗣 Commented on [#11](https://github.com/zeborg/Auto-MERGE-Project/issues/11) in [zeborg/Auto-MERGE-Project](https://github.com/zeborg/Auto-MERGE-Project)
 <!--END_SECTION:activity-->
