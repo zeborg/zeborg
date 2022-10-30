@@ -55,9 +55,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5154](https://github.com/kyverno/kyverno/issues/5154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#2950](https://github.com/kyverno/kyverno/issues/2950) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 2. 🗣 Commented on [#5154](https://github.com/kyverno/kyverno/issues/5154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 🗣 Commented on [#2356](https://github.com/kyverno/kyverno/issues/2356) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 💪 Opened PR [#29](https://github.com/nirmata/kyverno-charts/pull/29) in [nirmata/kyverno-charts](https://github.com/nirmata/kyverno-charts)
-5. ❌ Closed PR [#28](https://github.com/nirmata/kyverno-charts/pull/28) in [nirmata/kyverno-charts](https://github.com/nirmata/kyverno-charts)
+3. 🗣 Commented on [#5154](https://github.com/kyverno/kyverno/issues/5154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 🗣 Commented on [#2356](https://github.com/kyverno/kyverno/issues/2356) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 💪 Opened PR [#29](https://github.com/nirmata/kyverno-charts/pull/29) in [nirmata/kyverno-charts](https://github.com/nirmata/kyverno-charts)
 <!--END_SECTION:activity-->
