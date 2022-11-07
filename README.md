@@ -55,9 +55,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5168](https://github.com/kyverno/kyverno/issues/5168) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. 🗣 Commented on [#5154](https://github.com/kyverno/kyverno/issues/5154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 🗣 Commented on [#5154](https://github.com/kyverno/kyverno/issues/5154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#2950](https://github.com/kyverno/kyverno/issues/2950) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. ❗️ Closed issue [#2](https://github.com/hackkrmu/hackkrmu.github.io/issues/2) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
+2. 🗣 Commented on [#2](https://github.com/hackkrmu/hackkrmu.github.io/issues/2) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
+3. 🎉 Merged PR [#3](https://github.com/hackkrmu/hackkrmu.github.io/pull/3) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
+4. 🗣 Commented on [#5168](https://github.com/kyverno/kyverno/issues/5168) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 5. 🗣 Commented on [#5154](https://github.com/kyverno/kyverno/issues/5154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
