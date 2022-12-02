@@ -55,9 +55,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/nirmata/kyverno-aws-adapter/pull/29) in [nirmata/kyverno-aws-adapter](https://github.com/nirmata/kyverno-aws-adapter)
-2. 🎉 Merged PR [#28](https://github.com/nirmata/kyverno-aws-adapter/pull/28) in [nirmata/kyverno-aws-adapter](https://github.com/nirmata/kyverno-aws-adapter)
-3. 🎉 Merged PR [#15](https://github.com/hackkrmu/hackkrmu.github.io/pull/15) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
-4. ❗️ Opened issue [#12](https://github.com/hackkrmu/hackkrmu.github.io/issues/12) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
-5. 🎉 Merged PR [#10](https://github.com/hackkrmu/hackkrmu.github.io/pull/10) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
+1. ❌ Closed PR [#39](https://github.com/nirmata/kyverno-aws-adapter/pull/39) in [nirmata/kyverno-aws-adapter](https://github.com/nirmata/kyverno-aws-adapter)
+2. 🗣 Commented on [#39](https://github.com/nirmata/kyverno-aws-adapter/issues/39) in [nirmata/kyverno-aws-adapter](https://github.com/nirmata/kyverno-aws-adapter)
+3. 💪 Opened PR [#39](https://github.com/nirmata/kyverno-aws-adapter/pull/39) in [nirmata/kyverno-aws-adapter](https://github.com/nirmata/kyverno-aws-adapter)
+4. 💪 Opened PR [#29](https://github.com/nirmata/kyverno-aws-adapter/pull/29) in [nirmata/kyverno-aws-adapter](https://github.com/nirmata/kyverno-aws-adapter)
+5. 🎉 Merged PR [#28](https://github.com/nirmata/kyverno-aws-adapter/pull/28) in [nirmata/kyverno-aws-adapter](https://github.com/nirmata/kyverno-aws-adapter)
 <!--END_SECTION:activity-->
