@@ -55,9 +55,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/hackkrmu/hackkrmu.github.io/pull/52) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
-2. 💪 Opened PR [#52](https://github.com/hackkrmu/hackkrmu.github.io/pull/52) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
-3. 🗣 Commented on [#3514](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3514) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🎉 Merged PR [#51](https://github.com/hackkrmu/hackkrmu.github.io/pull/51) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
-5. 🎉 Merged PR [#49](https://github.com/hackkrmu/hackkrmu.github.io/pull/49) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
+1. 🎉 Merged PR [#53](https://github.com/hackkrmu/hackkrmu.github.io/pull/53) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
+2. 💪 Opened PR [#53](https://github.com/hackkrmu/hackkrmu.github.io/pull/53) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
+3. 🎉 Merged PR [#52](https://github.com/hackkrmu/hackkrmu.github.io/pull/52) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
+4. 💪 Opened PR [#52](https://github.com/hackkrmu/hackkrmu.github.io/pull/52) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
+5. 🗣 Commented on [#3514](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3514) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
