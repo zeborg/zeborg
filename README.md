@@ -55,9 +55,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/hackkrmu/hackkrmu.github.io/pull/55) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
-2. 🎉 Merged PR [#54](https://github.com/hackkrmu/hackkrmu.github.io/pull/54) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
-3. 🎉 Merged PR [#53](https://github.com/hackkrmu/hackkrmu.github.io/pull/53) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
-4. 💪 Opened PR [#53](https://github.com/hackkrmu/hackkrmu.github.io/pull/53) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
-5. 🎉 Merged PR [#52](https://github.com/hackkrmu/hackkrmu.github.io/pull/52) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
+1. 🎉 Merged PR [#56](https://github.com/hackkrmu/hackkrmu.github.io/pull/56) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
+2. 🎉 Merged PR [#55](https://github.com/hackkrmu/hackkrmu.github.io/pull/55) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
+3. 🎉 Merged PR [#54](https://github.com/hackkrmu/hackkrmu.github.io/pull/54) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
+4. 🎉 Merged PR [#53](https://github.com/hackkrmu/hackkrmu.github.io/pull/53) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
+5. 💪 Opened PR [#53](https://github.com/hackkrmu/hackkrmu.github.io/pull/53) in [hackkrmu/hackkrmu.github.io](https://github.com/hackkrmu/hackkrmu.github.io)
 <!--END_SECTION:activity-->
